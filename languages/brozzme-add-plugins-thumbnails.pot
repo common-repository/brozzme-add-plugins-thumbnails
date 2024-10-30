@@ -1,0 +1,152 @@
+# Copyright (C) 2018 Brozzme add plugins thumbnails
+# This file is distributed under the same license as the Brozzme add plugins thumbnails package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Brozzme add plugins thumbnails 1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/brozzme-add-plugins-thumbnails\n"
+"POT-Creation-Date: 2018-04-04 14:09:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/brozzme_plugins_thumbnails_settings.php:31
+#: includes/brozzme_plugins_thumbnails_settings.php:32
+msgid "Plugins Thumbnails"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:54
+msgid "Settings"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:55
+msgid "Add your thumbnails"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:56
+msgid "Brozzme"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:165
+msgid "Enable Brozzme Plugin Icons"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:173
+msgid "Width"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:180
+msgid "Height"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:188
+msgid "Round icons"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:196
+msgid "Transients expiration"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:203
+msgid "Reset transients"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:221
+msgid "Add your own plugins thumbnails"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:241
+msgid "Customize plugins thumbnails with any ones of your choice if they are not available in the WordPress repository (premium, self developed plugin)."
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:242
+msgid "Select plugin in the select dropdown and choose or upload the thumbnail for the choosen plugin. "
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:253
+msgid "Yes"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:255
+msgid "No"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:307
+msgid "day"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:308
+msgid "week"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:309
+#: includes/brozzme_plugins_thumbnails_settings.php:310
+msgid "month"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:311
+msgid "year"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:312
+msgid "Never"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:343
+msgid "Transients deleted"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:398
+msgid "Select or upload new file for thumbnail"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:399
+#: includes/brozzme_plugins_thumbnails_settings.php:476
+msgid "Add thumbnail"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:400
+#: includes/brozzme_plugins_thumbnails_settings.php:456
+msgid "Modify thumbnail"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:412
+msgid "Add More Fields"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:474
+msgid "Slug (ie, for WPS Hide Login,slug is wps-hide-login, usually the plugin folder name)"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:509
+msgid "Plugin slug (ie, for WPS Hide Login, slug is wps-hide-login, usually the plugin folder name)"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:510
+msgid "Url of the thumbnail"
+msgstr ""
+
+#: includes/brozzme_plugins_thumbnails_settings.php:511
+msgid "Add plugin thumbnail"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Brozzme add plugins thumbnails"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://brozzme.com/plugins-thumbnails/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add thumbnail column to plugins list table in the admin plugins page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "benoti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://brozzme.com"
+msgstr ""
